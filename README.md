@@ -27,7 +27,7 @@ La cinta tendrá el espacio de columnas en blanco necesarias para realizar la ope
 
 Si la máquina encuentra una sílaba que no esté en los lenguajes indicados con anterioridad, marca error diciendo que hay un error en la entrada.
 Si la máquina no tiene transición con una sílaba en el estado indicado, se mostrará un error diciendo de la cadena no cumple con los requerimientos.
-De lo contrario, se mostrará un mensaje diciendo que la cadena ha sido verificada, se ha duplicado el patrón o se ha realizado la operación.
+De lo contrario, se mostrará un mensaje diciendo que la cadena ha sido verificada, se ha duplicado el patrón o se ha realizado la operación. Sin embargo, en las operaciones debe de ir cantidad de unos, el símbolo y otra cantidad de unos.
 La posición de la cabeza de la cinta se estará indicando con un cuadro de color morado en la parte inferior de la cadena en el DataGridView
 
 Para las operaciones no es necesario escribir el símbolo "=", ya que el programa detecta si está o no. De ser el segundo caso, lo agrega.
